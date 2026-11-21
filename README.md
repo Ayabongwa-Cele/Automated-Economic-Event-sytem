@@ -114,4 +114,4 @@ Future development focuses on improving automated data processing, analytical fu
 
 The following screenshot shows the integrated system executing and producing output.
 
-![System Running](Screenshot(2).png)
+![System Running](<Screenshot (2).png>)
