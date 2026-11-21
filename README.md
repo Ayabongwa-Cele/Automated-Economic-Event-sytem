@@ -110,6 +110,11 @@ The project is an integrated prototype currently undergoing further development.
 
 Future development focuses on improving automated data processing, analytical functionality, testing, and system monitoring.
 
+## System Demonstration
+
+The following screenshot shows the integrated system executing and producing output.
+
+![System Running](system_running.png)
 
     B --> H[Data Logging]
     G --> H
