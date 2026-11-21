@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Trade Dashboard</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>Perfomance Dashboard</h1>
+<div id="stats">
+    <p>Balance: <span id="balance">0</span></p>
+    <p>Total Trades: <span id="totalTrades">0</span></p>
+    <p>WinRate: <span id="winrate">0</span>%</p>
+</div>
+<canvas id="chart" width="600" heigth="300"></canvas>
+
+<script src="app.js"></script>
+</body>
+</html>
