@@ -77,3 +77,20 @@ Through this project, I aim to develop practical experience in:
 **Ayabongwa Cele**
 
 Independent software development project exploring computer science, automation, mathematics, and financial technology.
+
+flowchart TD
+    A[Economic Data Source] --> B[Qt C++ Server]
+
+    B --> C[Economic Event Processing]
+    C --> D[Analysis Engine]
+    D --> E[Signal Generation]
+
+    E --> F[Python Bridge]
+    F --> G[MetaTrader 5]
+
+    B --> H[Data Logging]
+    G --> H
+
+    H --> I[Performance Analysis]
+
+    J[Dashboard Interface] --> B
