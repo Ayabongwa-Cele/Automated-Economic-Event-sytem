@@ -94,6 +94,23 @@ flowchart TD
     J[Dashboard Interface] --> B
 ```
 
+## Project Documentation
+
+Detailed documentation is available below:
+
+- [System Architecture](docs/system_architecture.md) — Overview of the system structure and component interactions.
+- [Development Log](docs/development_log.md) — Development progress, challenges, and lessons learned.
+- [Project Roadmap](docs/roadmap.md) — Current milestones and planned improvements.
+- [Testing Documentation](docs/testing.md) — Testing approach, integration checks, and known limitations.
+- [Project Summary](docs/project_summary.md) — Project motivation, technical approach, and learning outcomes.
+
+## Current Status
+
+The project is an integrated prototype currently undergoing further development. The core components have been connected, and the system can execute and produce output.
+
+Future development focuses on improving automated data processing, analytical functionality, testing, and system monitoring.
+
+
     B --> H[Data Logging]
     G --> H
 
